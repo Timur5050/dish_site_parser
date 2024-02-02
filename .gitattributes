@@ -1,1 +1,1 @@
-*.rb linguist-language=Python
+.devcontainer/*.json linguist-language=Python
